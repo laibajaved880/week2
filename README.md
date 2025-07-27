@@ -9,5 +9,5 @@ Each example in this collection demonstrates key topics from the PCAP certificat
 - Exception handling  
 - File I/O  
 - Object-Oriented Programming (OOP)  
-- ⚙Module usage and script structure  
+- Module usage and script structure  
 All scripts are self-contained, executable, and annotated with clear inline comments to enhance understanding.
